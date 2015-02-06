@@ -1,3 +1,3 @@
-module Barthes
-        VERSION = "0.0.1"
+module Ncf
+        VERSION = "0.0.2"
 end
